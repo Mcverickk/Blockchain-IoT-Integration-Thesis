@@ -1,10 +1,10 @@
 # Blockchain IoT Integration Thesis 
 
-## IoT-data-collection
+## IoT-Data-Collection
 
 This repo contains Python code that is run locally on Raspberry Pi to get the data from IoT sensors & store it in a file `data.json`
 
-## IoT-database-connection
+## IoT-Database-Connection
 
 This repo includes the code to save the data received through IoT sensor on local IoT network to MongoDB cloud.
 
