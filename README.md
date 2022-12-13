@@ -1,4 +1,4 @@
-# blockchain-iot-integration-thesis 
+# Blockchain IoT Integration Thesis 
 
 ## IoT-data-collection
 
